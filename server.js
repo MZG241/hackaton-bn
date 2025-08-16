@@ -16,7 +16,7 @@ dotenv.config();
 
 const app = express();
 
-//For production test
+//For production 2
 const corsOptions = {
   origin: 'https://akazi-recruitment-agency.vercel.app',
   methods: ['GET', 'POST', 'PUT', 'DELETE'], 
