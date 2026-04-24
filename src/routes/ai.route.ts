@@ -292,6 +292,7 @@ router.patch("/shortlist/:screeningId", authenticateToken, aiController.toggleSh
  *       200: { description: Decision recorded }
  */
 router.post("/decision/:applicationId", authenticateToken, aiController.quickDecision);
+router.post("/quick-decision-sync/:applicationId", authenticateToken, aiController.quickDecision);
 
 /**
  * @swagger
