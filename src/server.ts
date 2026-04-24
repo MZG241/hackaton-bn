@@ -85,7 +85,7 @@ app.get("/", (req, res) => {
         </head>
         <body>
             <div class="container">
-                <div class="badge">Nexus Protocol v1.0.0</div>
+                <div class="badge">Akazi Hiring Management based on AI</div>
                 <h1>Akazi <span class="accent">Nexus.</span></h1>
                 <p>The neural recruitment framework for high-stakes mission deployments. Unifying global talent through strategic node synchronization.</p>
                 <div class="status">
