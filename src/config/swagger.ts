@@ -6,18 +6,18 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Akazi Nexus Protocol Documentation',
+      title: 'Akazi  Documentation',
       version: '1.0.0',
       description: 'The complete neural API documentation for the Akazi recruitment platform. This interface provides detailed specifications for authentication, talent management, AI screening, and operational analytics.',
       contact: {
-        name: 'Nexus Support',
+        name: 'Akazi Support',
         url: 'http://localhost:5000',
       },
     },
     servers: [
       {
         url: 'http://localhost:5000',
-        description: 'Nexus Development Node',
+        description: 'Akazi Development Node',
       },
     ],
     components: {
