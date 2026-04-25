@@ -1,4 +1,4 @@
-# Akazi Nexus - AI Recruitment Backend (Nexus Protocol)
+# Akazi- AI Recruitment Backend 
 
 Akazi Nexus is a high-performance recruitment intelligence platform powered by Google Gemini 2.5 Flash. It automates the entire recruitment lifecycle—from AI-driven job creation to neural candidate screening and career coaching.
 
@@ -67,5 +67,3 @@ EMAIL_PASSWORD=your_smtp_app_password
    - Build Command: `npm install && npm run build`
    - Start Command: `npm start` (Runs compiled code from `dist/`)
 
----
-*Developed for the AI Recruitment Revolution.*
